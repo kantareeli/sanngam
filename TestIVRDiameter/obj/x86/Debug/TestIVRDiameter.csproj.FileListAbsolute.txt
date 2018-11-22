@@ -1,0 +1,10 @@
+C:\Develops\TestIVRDiameter\TestIVRDiameter\bin\Debug\TestIVRDiameter.exe
+C:\Develops\TestIVRDiameter\TestIVRDiameter\bin\Debug\TestIVRDiameter.pdb
+C:\Develops\TestIVRDiameter\TestIVRDiameter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Develops\TestIVRDiameter\TestIVRDiameter\obj\x86\Debug\TestIVRDiameter.exe
+C:\Develops\TestIVRDiameter\TestIVRDiameter\obj\x86\Debug\TestIVRDiameter.pdb
+D:\Develops\TestIVRDiameter\TestIVRDiameter\obj\x86\Debug\TestIVRDiameter.exe
+D:\Develops\TestIVRDiameter\TestIVRDiameter\obj\x86\Debug\TestIVRDiameter.pdb
+D:\Develops\TestIVRDiameter\TestIVRDiameter\bin\Debug\TestIVRDiameter.exe
+D:\Develops\TestIVRDiameter\TestIVRDiameter\bin\Debug\TestIVRDiameter.pdb
+D:\Develops\TestIVRDiameter\TestIVRDiameter\obj\x86\Debug\ResolveAssemblyReference.cache
